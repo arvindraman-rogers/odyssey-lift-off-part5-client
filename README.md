@@ -35,7 +35,7 @@ For any issues or problems concerning the course content, please refer to the [O
 
 ### Apollo Server Keys (to be updated in Heroku)
 
-APOLLO_KEY=service:Arvinds-Graph-Beam-the-Cats-up-Scotty:view-in-Heroku
-APOLLO_GRAPH_ID=Arvinds-Graph-Beam-the-Cats-up-Scotty
-APOLLO_GRAPH_VARIANT=current
-APOLLO_SCHEMA_REPORTING=true
+- APOLLO_KEY=service:Arvinds-Graph-Beam-the-Cats-up-Scotty:view-in-Heroku
+- APOLLO_GRAPH_ID=Arvinds-Graph-Beam-the-Cats-up-Scotty
+- APOLLO_GRAPH_VARIANT=current
+- APOLLO_SCHEMA_REPORTING=true
